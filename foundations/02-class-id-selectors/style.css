@@ -1,0 +1,18 @@
+.odd {
+  font-family: "Verdana", sans-serif;
+  background-color: rgb(240, 115, 132);
+}
+
+#second {
+  color: blue;
+  font-size: 36px;
+}
+
+.headline {
+  font-size: 24px;
+}
+
+.headline.greener {
+  background-color: rgb(193, 250, 127);
+  font-weight: bold;
+}
